@@ -1,5 +1,5 @@
 #AI BASED FITNESS TRACKER</br>
-
+##
 A app that will continuously monitor for the Fitness with user inputs and provide food,exercise recommendations based on through user inputs.
 
 Tech Stack Used
@@ -17,6 +17,7 @@ Machine Learning Algorithms
  *Linear regression
  
  *Random forest
+ ##
 
 Firstly clone this repo locally(if you want you can fork it and clone it too) :
 
@@ -43,7 +44,8 @@ conda create --name --file requirements.txt
 <!-- OR -->
 
 # using pip
-pip install -r requirements.txt
+##
+  pip install -r requirements.txt 
 
 
 As everything is ready now, we can run,
@@ -53,7 +55,7 @@ fitness_tracker.ipynb  in jupyter notebook
 which preprocess the given dataset and performs random forest classifier to classify the users.
 
 After all done. 
-
+##
 Frontend Setup
 
 The frontend setup is quite easy,
