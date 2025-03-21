@@ -1,4 +1,4 @@
-#AI BASED FITNESS TRACKER
+#AI BASED FITNESS TRACKER</br>
 
 A app that will continuously monitor for the Fitness with user inputs and provide food,exercise recommendations based on through user inputs.
 
